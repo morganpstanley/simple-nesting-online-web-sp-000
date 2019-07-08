@@ -93,8 +93,6 @@ def adding_matz
 		     :languages => ["LISP", "C"]
 		  }
 
-			return programming_hash
-
 
 end
 
